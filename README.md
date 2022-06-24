@@ -32,7 +32,7 @@ As this project is still in progress, the code is currently provided for referen
 
 ## License
 
-Clover is licensed under the GNU General Public License, for more information read the LICENSE file or refer to:
+DNA_commcode is licensed under the GNU General Public License, for more information read the LICENSE file or refer to:
 
 http://www.gnu.org/licenses/
 
