@@ -10,7 +10,7 @@ Channel coding for the DNA storage domain (synchronous error channels), includin
 - pyldpc
 
 ## Introduction
-As this project is still in progress, the code is currently provided for reference only. If you have any questions feel free to contact me：D
+As this project is still in progress, the code is currently provided for reference only. If you have any questions feel free to contact me :D
 - ref2bin.py
 > A tool for converting files and DNA sequences to each other.
 - test_multiprocessing.py
